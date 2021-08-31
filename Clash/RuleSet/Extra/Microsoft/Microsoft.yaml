@@ -31,3 +31,11 @@ payload:
   - DOMAIN,download.microsoft.com
   - DOMAIN,wustat.windows.com
   - DOMAIN,ntservicepack.microsoft.com
+  # >> Edge
+  - DOMAIN-SUFFIX,msedge.net
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-KEYWORD,edge
+  # >>Bing
+  - DOMAIN-SUFFIX,bing.com
+  # >> Skype
+  - DOMAIN-SUFFIX,skype.com
