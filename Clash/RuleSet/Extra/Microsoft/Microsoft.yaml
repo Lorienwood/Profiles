@@ -35,7 +35,10 @@ payload:
   - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-KEYWORD,edge
-  # >>Bing
+  # >> Bing
   - DOMAIN-SUFFIX,bing.com
   # >> Skype
   - DOMAIN-SUFFIX,skype.com
+  # >> Xbox
+  - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,xboxlive.com
