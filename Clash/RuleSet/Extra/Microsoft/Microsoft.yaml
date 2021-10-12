@@ -46,6 +46,9 @@ payload:
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN,assets1.xboxlive.com
   - DOMAIN,assets2.xboxlive.com
+  # >> NSCI
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
   # >> Others
   - DOMAIN-SUFFIX,aka.ms
   - DOMAIN-SUFFIX,streaming.mediaservices.windows.net
