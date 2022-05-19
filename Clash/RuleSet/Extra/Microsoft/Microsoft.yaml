@@ -36,7 +36,7 @@ payload:
   # >> Edge
   - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,azureedge.net
-  - DOMAIN-KEYWORD,edge
+  # - DOMAIN-KEYWORD,edge
   # >> Bing
   - DOMAIN-SUFFIX,bing.com
   # >> Skype
